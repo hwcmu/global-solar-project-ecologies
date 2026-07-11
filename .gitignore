@@ -1,0 +1,14 @@
+.DS_Store
+.ipynb_checkpoints/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Third-party source data are downloaded locally.
+data/*.xlsx
+data/natural_earth/
+
+# Generated analysis products.
+artifacts/*
+!artifacts/.gitkeep
+
