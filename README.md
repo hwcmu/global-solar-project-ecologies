@@ -2,11 +2,11 @@
 
 Reproducibility repository for the published *Energy, Ecology and Environment* article:
 
-> Wang, H., Hong, C. & Sun, J. (2026). Beyond megawatts: Structural configurations and project ecologies in global utility-scale solar. *Energy, Ecology and Environment*. https://doi.org/10.1007/s40974-026-00428-5
+> Wang, H., Hong, C. & Sun, J. (2026). [Beyond megawatts: Structural configurations and project ecologies in global utility-scale solar](https://doi.org/10.1007/s40974-026-00428-5). *Energy, Ecology and Environment*.
 
 ## Quick Links
 
-- [Read the paper](https://doi.org/10.1007/s40974-026-00428-5)
+- [Read the published paper (DOI)](https://doi.org/10.1007/s40974-026-00428-5)
 - [Citation metadata](CITATION.cff)
 - [Data sources and placement](DATA_SOURCES.md)
 - [Analysis notebooks](notebooks/)
@@ -98,4 +98,3 @@ The analysis uses the February 2026 release of the Global Solar Power Tracker fr
   url     = {https://doi.org/10.1007/s40974-026-00428-5}
 }
 ```
-
